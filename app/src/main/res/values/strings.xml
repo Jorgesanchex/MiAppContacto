@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiAppContacto</string>
+    <string name="nombre_hint">Nombre completo</string>
+    <string name="fecha_hint">Fecha de nacimiento</string>
+    <string name="telefono_hint">Teléfono</string>
+    <string name="email_hint">Email</string>
+    <string name="descripcion_hint">Descripción del contacto</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar datos</string>
+</resources>
